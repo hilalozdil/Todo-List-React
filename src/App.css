@@ -93,6 +93,7 @@ li {
 li span {
   flex: 1;
   text-align: left;
+  overflow-wrap: break-word;
   word-break: break-word;
   padding-left: 3px;
 }
